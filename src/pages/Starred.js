@@ -1,5 +1,3 @@
-/* eslint-disable no-console */
-/* eslint-disable no-unused-vars */
 import React, { useState, useEffect } from 'react';
 import MainPageLayout from '../components/MainPageLayout';
 import { useShows } from '../misc/custom-hooks';
