@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Prime-Watch/static/css/main.5fffadb5.chunk.css",
+    "main.js": "/Prime-Watch/static/js/main.7b387344.chunk.js",
+    "main.js.map": "/Prime-Watch/static/js/main.7b387344.chunk.js.map",
+    "runtime-main.js": "/Prime-Watch/static/js/runtime-main.ee05c0c9.js",
+    "runtime-main.js.map": "/Prime-Watch/static/js/runtime-main.ee05c0c9.js.map",
+    "static/js/2.fa7f2796.chunk.js": "/Prime-Watch/static/js/2.fa7f2796.chunk.js",
+    "static/js/2.fa7f2796.chunk.js.map": "/Prime-Watch/static/js/2.fa7f2796.chunk.js.map",
+    "static/js/3.c02c87c5.chunk.js": "/Prime-Watch/static/js/3.c02c87c5.chunk.js",
+    "static/js/3.c02c87c5.chunk.js.map": "/Prime-Watch/static/js/3.c02c87c5.chunk.js.map",
+    "index.html": "/Prime-Watch/index.html",
+    "service-worker.js": "/Prime-Watch/service-worker.js",
+    "service-worker.js.map": "/Prime-Watch/service-worker.js.map",
+    "static/css/main.5fffadb5.chunk.css.map": "/Prime-Watch/static/css/main.5fffadb5.chunk.css.map",
+    "static/js/2.fa7f2796.chunk.js.LICENSE.txt": "/Prime-Watch/static/js/2.fa7f2796.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee05c0c9.js",
+    "static/js/2.fa7f2796.chunk.js",
+    "static/css/main.5fffadb5.chunk.css",
+    "static/js/main.7b387344.chunk.js"
+  ]
+}
